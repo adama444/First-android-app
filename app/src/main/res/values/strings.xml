@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My First Application</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="sign_in">sign in</string>
+    <string name="sign_up">sign up</string>
+    <string name="hint_email">Type an email</string>
+    <string name="hint_password">Type password</string>
+    <string name="sign_out">sign out</string>
+</resources>
